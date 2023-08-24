@@ -1,9 +1,7 @@
 header, footer, section {
     padding: 100px 0;
 }
+
 header {
-    padding: 200px 0;
-}
-header, footer {
-    background-image: url("../assets/img.png");
+    padding: 0;
 }
