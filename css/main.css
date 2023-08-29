@@ -1,7 +1,14 @@
-header, footer, section {
-    padding: 0 0;
+body {
+    background-image: url('../assets/paper.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
-header {
-    padding: 0;
+.navbar-rounded {
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+.navbar {
+    padding: 5px 0;
 }
